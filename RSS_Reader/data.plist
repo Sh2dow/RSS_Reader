@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>BlogTitle</key>
+		<string>BBC</string>
+		<key>BlogURL</key>
+		<string>http://feeds.bbci.co.uk/news/rss.xml</string>
+	</dict>
+	<dict>
+		<key>BlogTitle</key>
+		<string>Guardian</string>
+		<key>BlogURL</key>
+		<string>http://feeds.guardian.co.uk/theguardian/rss</string>
+	</dict>
+	<dict>
+		<key>BlogTitle</key>
+		<string>Khaleej Times</string>
+		<key>BlogURL</key>
+		<string>http://www.khaleejtimes.com/services/rss/topstories/rss.xml</string>
+	</dict>
+	<dict>
+		<key>BlogTitle</key>
+		<string>Gulf News</string>
+		<key>BlogURL</key>
+		<string>http://gulfnews.com/cmlink/1.446094</string>
+	</dict>
+</array>
+</plist>
